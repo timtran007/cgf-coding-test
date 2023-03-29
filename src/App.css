@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+.field {
+  width: 100%;
+  height: 56px;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgba(fff);
+  font-size: calc(10px + 1vmin);
+  text-align: center;
+}
+
+.spacing {
+  padding-bottom: 5%
+}
+
+.button {
+  font-size: calc(1vmin);
+  line-height: 1;
+  border-radius: 500px;
+  border: 1px solid transparent;
+  letter-spacing: 2px;
+  min-width: 160px;
+  text-transform: uppercase;
+  white-space: normal;
+  font-weight: 700;
+  text-align: center;
+  color: #fff;
+  background-color: #1ED760;
+  padding: 3%;
+}
+
+.clear-button {
+  font-size: calc(1vmin);
+  line-height: 1;
+  border-radius: 500px;
+  border: 1px solid transparent;
+  letter-spacing: 2px;
+  min-width: 160px;
+  text-transform: uppercase;
+  white-space: normal;
+  font-weight: 700;
+  text-align: center;
+  color: #fff;
+  background-color: #ffffff00;
+  padding: 3%;
+}
